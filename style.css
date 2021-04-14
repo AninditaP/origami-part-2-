@@ -1,0 +1,45 @@
+p{
+    color:#45526c
+ }
+ul{
+ 
+     color:#3a6351;
+}
+ol{
+     color:#393232
+ }
+body{
+     background-color:#5aa897
+}
+.menu{
+
+     display: flex;
+     justify-content: space-between;
+     background-color:#45526c;
+     font-size: 20px;
+     font-family: cursive;
+     font-weight: 400;
+     color: white;
+}
+.grid{
+
+     display:flex;
+     flex-wrap: wrap;
+     justify-content: space-evenly;
+     background-color: #f8a488 ;
+
+}
+.origami{
+     
+     border-radius: 20px;
+     background-color:#f8f5f1;
+
+     width: 400px;
+     font-family: fantasy;
+}
+.grid img{
+
+     border:2px solid black;
+     border-radius: 50px;
+
+}
